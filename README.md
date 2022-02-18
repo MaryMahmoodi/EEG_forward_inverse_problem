@@ -11,4 +11,5 @@ The goal is to design a non-invasive and reliable source localization software f
 
 Do we have such reliable "non-invasive" tools in clinics right now, or are they all research-purpose?  
 
-In this repository, I will be sharing my findings regarding EEG forward/inverse problems from neural concepts to formulas.   
+In this repository, I will be sharing a step-by-step presentation from neural source concepts and modeling to forward/inverse formulas and codes. 
+
