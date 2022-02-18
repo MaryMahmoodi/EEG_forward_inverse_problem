@@ -12,5 +12,5 @@ EEG is the projection of activities of neural sources from the brain to the scal
 
 ❓Do we have such reliable "non-invasive" tools in clinics right now, or are they all research-purpose?
 
-In this repository, I will be sharing a step-by-step presentation from neural source concepts and modeling to forward/inverse formulas and codes. 
+In this repository, I will be sharing a step-by-step presentation from neural source conceptual modeling to forward/inverse formulas. 
 
