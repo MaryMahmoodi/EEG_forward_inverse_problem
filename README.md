@@ -1,6 +1,6 @@
 # EEG_forward_inverse_problem
 EEG is the instant record of our brain electric activity through non-invasive conductive electrodes attached to the scalp.
-EEG is the projection of activities of neural sources from the brain, recorded on the scalp.
+EEG is the projection of activities of neural sources from the brain to the scalp.
 
 In what way is EEG formed from neural source activities? We call it a forward problem.
 
