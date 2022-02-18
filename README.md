@@ -8,4 +8,4 @@ How can we localize the neural source locations responsible for a specific EEG m
 
 Why do we do the inverse problem? The main goal is to design a non-invasive and reliable source localization software for pre-surgical planning.   
 
-In this repository, I will be sharing my findings regarding EEG forward/inverse problems from concepts to formulas.   
+In this repository, I will be sharing my findings regarding EEG forward/inverse problems from neural concepts to formulas.   
