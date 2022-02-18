@@ -6,7 +6,7 @@ EEG is the projection of activities of neural sources from the brain to the scal
 
 3. How can we localize the neural source activities responsible for a specific EEG map? We call it an inverse problem and solve the EEG forward problem and linear algebra rules for that.
 
-❓The main questions is, why do we do the inverse problem???
+❓The main questions is, why do we do the EEG inverse problem???
 
 🎯The goal is to design a non-invasive and reliable source localization software for pre-surgical planning.
 
