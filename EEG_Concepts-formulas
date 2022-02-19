@@ -1,1 +1,29 @@
+Dipole momentum definition at one point between two monopoles (sink and source)
+𝒅= 𝐼.𝑝 . 𝒆 = 𝐼.𝑝 .𝒆
+𝑃: distance between two monopoles (m) usually considered unit (1)
+𝐼:current density (𝐴𝑚2 )
+𝒆: vector from sink to source (two monopoles), this vector is normal to surface on
+outer layer of gray matter (cerebral cortex)
+
+dipole voltage-current equation (Poisson’s differential equation )
+𝑱=𝑱𝒑+𝝈𝑬 𝑱 (𝑨𝒎𝟐 ): total current density 
+𝝈: conductivity 𝑱𝒑: primary current density(in or near to cell) 
+𝝈𝑬: secondary (volume) current A small volume around neuron has no net current.
+𝑱=𝜵×𝑩→ 𝜵.𝑱=𝜵.𝜵×𝑩=𝟎 𝑱=𝑱𝒑+𝝈𝑬=𝑱𝒑−𝝈𝜵𝑽 𝜵.𝑱𝒑=−𝑰𝜹𝒓−𝒓𝒔𝒊𝒏𝒌+𝑰𝜹(𝒓−𝒓𝒔𝒐𝒖𝒓𝒄𝒆)
+𝜵.𝝈𝜵𝑽=𝜵.𝑱𝒑:This is called the Poisson's differential equation So 𝑱𝒑, primary current density is the EEG source. 
+Solving Poisson's differential equation= primary current density estimation
+conductivities of Gray matter, Skull, and Scalp 𝝈1,𝝈2,𝝈3,
+𝝈1 ≈ 𝝈3=𝑎 𝝈2 𝝈1≈ 𝝈3=0.33, 𝑎=15−80, most reported 𝑎= 25
+
+dipole momentum vector: 𝒅=𝒆𝒅(𝟑∗𝟏)∗𝒅 
+𝒅 dipole magnitude 
+(dipole current density 𝑱 (𝐴𝑚2 ))
+𝒆𝒅(𝟑∗𝟏) : dipole normalized vector direction Two boundary conditions at gray/skull, skull/scalp, scalp/air interfaces (boundaries)
+𝑱𝟏.𝒆𝒏=𝑱𝟐.𝒆𝒏,current density is continuous in boundaries
+𝝈𝟏𝛁𝑽𝟏.𝒆𝒏=𝝈𝟐𝛁𝑽𝟐.𝒆𝒏 , 𝜎1 and 𝜎2 inner and outer interface conductivity
+at the surface of scalp:𝑱𝟏.𝒆𝒏=𝟎,𝝈𝟏𝛁𝑽𝟏.𝒆𝒏 =0
+The other boundary condition in interfaces (except air): 𝑽𝟏=𝑽𝟐
+
+Solving Poisson’s equation (for a dipole in infinite homogeneous medium)
+...
 
