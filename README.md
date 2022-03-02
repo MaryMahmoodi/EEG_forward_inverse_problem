@@ -3,8 +3,7 @@
 EEG is the projection of activities of neural sources from the brain to the scalp.
 
 2. In what way is EEG formed from neural source activities? We call it a forward problem and solve the Poisson's current-electric field (-voltage gradient) equation in the conductive head volume to formulate the projection coefficients from neural source currents to the scalp electrode locations.
- 
-The projection coefficients are gathered in a matrix called lead-field. 
+   The projection coefficients are gathered in a matrix called lead-field. 
 
 3. How can we localize the neural source activities responsible for a specific EEG map? We call it an inverse problem and solve the EEG forward problem and linear algebra rules for that.
 
