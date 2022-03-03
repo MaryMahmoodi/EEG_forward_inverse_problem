@@ -1,4 +1,4 @@
-# EEG_forward_inverse_problem
+#EEG_forward_inverse_problem
 1. EEG is the instant record of our brain electric activity through non-invasive conductive electrodes attached to the scalp.
 EEG is the projection of activities of neural sources from the brain to the scalp.
 
