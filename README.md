@@ -1,4 +1,6 @@
-#EEG_forward_inverse_problem
+# EEG_forward_inverse_problem
+
+
 1. EEG is the instant record of our brain electric activity through non-invasive conductive electrodes attached to the scalp.
 EEG is the projection of activities of neural sources from the brain to the scalp.
 
@@ -7,7 +9,7 @@ EEG is the projection of activities of neural sources from the brain to the scal
 
 3. How can we localize the neural sources which are active at an instant of EEG map? We call it an inverse problem and solve it based on the forward problem and linear algebra rules.
 
-❓The main questions is, why do we do the EEG inverse problem???
+## ❓The main questions is, why do we do the EEG inverse problem???
 
 🎯The goal is to design a non-invasive and reliable source localization software for pre-surgical planning like seizure source localization or other BCI applications like movement directory tracking in source space.
 
