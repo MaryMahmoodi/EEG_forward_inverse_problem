@@ -19,7 +19,13 @@ EEG is the projection of activities of neural sources from the brain to the scal
 # In this repository, I share a step-by-step presentation from neural current source modeling to forward/inverse formulas. 
 
 
-The reader would go to https://github.com/MaryMahmoodi/3D-brain-mapping 
+The reader would go to 
+https://github.com/MaryMahmoodi/EEG_forward_inverse_problem/blob/main/Mainpresentation-EEG_dipolesourcelocalization.pdf
+to get the A-Z concept
+
+and 
+
+https://github.com/MaryMahmoodi/3D-brain-mapping 
 for downloading the code: main_mri2brainmap_allsteps.m regarding 
 MRI segmentation,
 surface mesh volume generation of head, skull, and brain,
