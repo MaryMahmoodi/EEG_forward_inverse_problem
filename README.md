@@ -26,8 +26,11 @@ to get the A-Z concept
 and 
 
 https://github.com/MaryMahmoodi/3D-brain-mapping 
-for downloading the code: main_mri2brainmap_allsteps.m regarding 
-MRI segmentation,
+for downloading the code: 
+main_mri2brainmap_cleancode.m
+Or 
+main_mri2brainmap_allsteps.m
+regarding MRI segmentation,
 surface mesh volume generation of head, skull, and brain,
 EEG electrode registartion,
 and brain-map.
