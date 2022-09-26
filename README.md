@@ -12,7 +12,7 @@ EEG is the projection of activities of neural sources from the brain to the scal
 
 ## ❓The main questions is, why do we do the EEG inverse problem???
 
-🎯The goal is to design a non-invasive and reliable source localization software for pre-surgical planning like seizure source localization or other BCI applications like movement trajectory tracking (classification) in source space.
+🎯The goal is to design a non-invasive and reliable source localization software for pre-surgical planning like seizure source localization or other BCI applications like movement trajectory tracking (classification) in source space for recovery of paralyzed limbs of stroke patients.
 
 ❓Do we have such reliable "non-invasive" tools in clinics right now, or are they all research-purpose? 
 
