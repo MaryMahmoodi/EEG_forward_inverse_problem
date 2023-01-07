@@ -22,10 +22,14 @@ EEG is the projection of activities of neural sources from the brain to the scal
 
 
 The reader would go to 
+
+
 https://github.com/MaryMahmoodi/EEG_forward_inverse_problem/blob/main/Mainpresentation-EEG_dipolesourcelocalization.pdf
 to get the A-Z concept
 
+
 and 
+
 
 https://github.com/MaryMahmoodi/3D-brain-mapping 
 for downloading the code: 
